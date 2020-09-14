@@ -1,0 +1,1 @@
+scoreboard players set spawnjohnny raid_control 0
